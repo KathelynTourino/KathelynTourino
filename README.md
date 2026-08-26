@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m Kathelyn</h1>
+<h1 align="left">Hi 👋, I’m Kathelyn</h1>
 <h3 align="center">🎓 Systems Analysis and Development student with a strong interest in technology and Backend Development. I'm currently focused on improving my programming skills, learning how applications work behind the scenes, and building practical projects to strengthen my knowledge.</h3>
 
 - 📫 How to reach me **kathelyntourino@gmail.com**
